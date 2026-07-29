@@ -5,6 +5,8 @@ MedQuAD dataset, with an LLM relevance-grading (C-RAG style) guardrail layer.
 
 **Live demo:** https://healthcarechatbot-jdjbkarhta3vrzazopvnfk.streamlit.app/
 
+**Demo Video and Presentation URL:** https://drive.google.com/drive/folders/1BYS1TgpHNb5ErWri7ANsioIHRN3yb98-?usp=sharing
+
 ## Optional enhancements implemented
 
 - ✅ Prompt engineering (system prompt with strict no-diagnosis/no-dosage rules, diagnosis-seeking
