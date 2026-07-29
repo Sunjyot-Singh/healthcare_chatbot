@@ -1,0 +1,16 @@
+.streamlit/secrets.toml
+*.env
+.env
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large generated artifacts - regenerate via the notebook rather than committing if they're big;
+# remove these two lines if you'd rather commit them directly (check they're under GitHub's
+# 100MB file limit first: git shows size with `du -h faiss_index.index metadata.pkl`)
+# faiss_index.index
+# metadata.pkl
+
+.DS_Store
+venv/
