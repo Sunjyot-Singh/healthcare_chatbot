@@ -3,7 +3,7 @@
 A RAG-based healthcare chatbot: Streamlit frontend, Groq-hosted LLMs, FAISS retrieval over the
 MedQuAD dataset, with an LLM relevance-grading (C-RAG style) guardrail layer.
 
-**Live demo:** _add your Streamlit Cloud URL here_
+**Live demo:** https://healthcarechatbot-jdjbkarhta3vrzazopvnfk.streamlit.app/
 
 ## Optional enhancements implemented
 
